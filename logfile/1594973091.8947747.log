@@ -1,0 +1,8 @@
+2020-07-17 08:04:52.270 WARNING _internal - _log:  * Debugger is active!
+2020-07-17 08:04:52.322 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-07-17 08:04:52.504 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 08:04:52] "GET / HTTP/1.1" 200 -
+2020-07-17 08:04:52.541 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 08:04:52] "GET /static/css/home.css HTTP/1.1" 200 -
+2020-07-17 08:04:52.543 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 08:04:52] "GET /static/js/home.js HTTP/1.1" 200 -
+2020-07-17 08:04:52.665 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 08:04:52] "GET /favicon.ico HTTP/1.1" 404 -
+2020-07-17 08:04:55.920 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 08:04:55] "GET / HTTP/1.1" 200 -
+2020-07-17 08:05:49.847 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

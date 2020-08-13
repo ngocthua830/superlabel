@@ -1,0 +1,12 @@
+2020-07-17 10:11:25.693 WARNING _internal - _log:  * Debugger is active!
+2020-07-17 10:11:25.694 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-07-17 10:11:28.258 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 10:11:28] "GET /?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 10:11:28.300 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 10:11:28] "GET /static/css/home.css HTTP/1.1" 200 -
+2020-07-17 10:11:28.301 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 10:11:28] "GET /static/js/home.js HTTP/1.1" 200 -
+2020-07-17 10:11:28.346 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 10:11:28] "GET /get_img_name?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 10:11:28.364 ERROR superlabel - get: local variable 'label' referenced before assignment
+2020-07-17 10:11:28.365 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 10:11:28] "GET /favicon.ico HTTP/1.1" 404 -
+2020-07-17 10:11:28.372 ERROR superlabel - get: None
+2020-07-17 10:11:28.374 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 10:11:28] "GET /get_label?fname=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 10:11:28.384 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 10:11:28] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 10:12:07.820 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

@@ -1,0 +1,15 @@
+2020-07-17 09:54:48.546 WARNING _internal - _log:  * Debugger is active!
+2020-07-17 09:54:48.548 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-07-17 09:55:00.262 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:00] "GET /?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:55:00.283 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:00] "GET /static/css/home.css HTTP/1.1" 200 -
+2020-07-17 09:55:00.294 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:00] "GET /static/js/home.js HTTP/1.1" 200 -
+2020-07-17 09:55:00.383 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:00] "GET /get_img_name?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:55:00.498 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:00] "GET /favicon.ico HTTP/1.1" 404 -
+2020-07-17 09:55:00.498 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:00] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:55:06.804 ERROR superlabel - post: name 'filename' is not defined
+2020-07-17 09:55:06.808 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:06] "GET /?mode=index&index=1 HTTP/1.1" 200 -
+2020-07-17 09:55:06.810 ERROR superlabel - post: None
+2020-07-17 09:55:06.811 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:06] "POST /send_result HTTP/1.1" 200 -
+2020-07-17 09:55:06.834 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:06] "GET /get_img_name?mode=index&index=1 HTTP/1.1" 200 -
+2020-07-17 09:55:06.843 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:55:06] "GET /get_ori_img?filename=1594746591.643852.jpg HTTP/1.1" 200 -
+2020-07-17 09:55:59.302 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

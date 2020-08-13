@@ -1,0 +1,36 @@
+2020-07-17 09:36:21.254 WARNING _internal - _log:  * Debugger is active!
+2020-07-17 09:36:21.255 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-07-17 09:36:24.647 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:36:24] "GET /?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:36:24.675 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:36:24] "GET /get_img_name?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:36:24.697 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:36:24] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:38:35.568 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:35] "GET /?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:38:35.686 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:35] "GET /get_img_name?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:38:35.696 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:35] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:38:41.858 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:41] "GET /?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:38:41.930 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:41] "GET /static/css/home.css HTTP/1.1" 200 -
+2020-07-17 09:38:48.822 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:48] "GET /static/js/home.js HTTP/1.1" 200 -
+2020-07-17 09:38:49.148 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:49] "GET /get_img_name?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:38:49.407 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:49] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:38:49.420 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:38:49] "GET /favicon.ico HTTP/1.1" 404 -
+2020-07-17 09:40:11.873 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:11] "GET /?mode=index&index=1 HTTP/1.1" 200 -
+2020-07-17 09:40:11.925 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:11] "GET /get_img_name?mode=index&index=1 HTTP/1.1" 200 -
+2020-07-17 09:40:11.941 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:11] "GET /get_ori_img?filename=1594746591.643852.jpg HTTP/1.1" 200 -
+2020-07-17 09:40:15.010 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:15] "GET /?mode=index&index=2 HTTP/1.1" 200 -
+2020-07-17 09:40:15.039 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:15] "GET /get_img_name?mode=index&index=2 HTTP/1.1" 200 -
+2020-07-17 09:40:15.072 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:15] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:40:17.497 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:17] "GET /?mode=index&index=3 HTTP/1.1" 200 -
+2020-07-17 09:40:17.530 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:17] "GET /get_img_name?mode=index&index=3 HTTP/1.1" 200 -
+2020-07-17 09:40:17.548 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:17] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:40:19.433 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:19] "GET /?mode=index&index=4 HTTP/1.1" 200 -
+2020-07-17 09:40:19.466 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:19] "GET /get_img_name?mode=index&index=4 HTTP/1.1" 200 -
+2020-07-17 09:40:19.492 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:19] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:40:20.727 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:20] "GET /?mode=index&index=5 HTTP/1.1" 200 -
+2020-07-17 09:40:20.757 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:20] "GET /get_img_name?mode=index&index=5 HTTP/1.1" 200 -
+2020-07-17 09:40:20.804 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:20] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:40:21.821 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:21] "GET /?mode=index&index=6 HTTP/1.1" 200 -
+2020-07-17 09:40:21.857 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:21] "GET /get_img_name?mode=index&index=6 HTTP/1.1" 200 -
+2020-07-17 09:40:21.927 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:21] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:40:22.762 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:22] "GET /?mode=index&index=7 HTTP/1.1" 200 -
+2020-07-17 09:40:22.818 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:22] "GET /get_img_name?mode=index&index=7 HTTP/1.1" 200 -
+2020-07-17 09:40:22.869 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:40:22] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:43:08.908 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

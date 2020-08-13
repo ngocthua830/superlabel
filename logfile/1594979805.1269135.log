@@ -1,0 +1,25 @@
+2020-07-17 09:56:45.152 WARNING _internal - _log:  * Debugger is active!
+2020-07-17 09:56:45.154 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-07-17 09:56:51.760 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:51] "GET /?mode=index&index=3 HTTP/1.1" 200 -
+2020-07-17 09:56:51.802 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:51] "POST /send_result HTTP/1.1" 200 -
+2020-07-17 09:56:51.823 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:51] "GET /get_img_name?mode=index&index=3 HTTP/1.1" 200 -
+2020-07-17 09:56:51.844 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:51] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:56:51.845 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:51] "GET /?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:56:51.904 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:51] "GET /get_img_name?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:56:51.947 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:51] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:57:04.568 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:04] "GET /?mode=index&index=1 HTTP/1.1" 200 -
+2020-07-17 09:57:04.587 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:04] "POST /send_result HTTP/1.1" 200 -
+2020-07-17 09:57:04.605 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:04] "GET /get_img_name?mode=index&index=1 HTTP/1.1" 200 -
+2020-07-17 09:57:04.623 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:04] "GET /get_ori_img?filename=1594746591.643852.jpg HTTP/1.1" 200 -
+2020-07-17 09:57:08.174 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:08] "GET /?mode=index&index=2 HTTP/1.1" 200 -
+2020-07-17 09:57:08.224 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:08] "GET /get_img_name?mode=index&index=2 HTTP/1.1" 200 -
+2020-07-17 09:57:08.240 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:08] "POST /send_result HTTP/1.1" 200 -
+2020-07-17 09:57:08.244 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:08] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:57:12.419 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:12] "GET /?mode=index&index=3 HTTP/1.1" 200 -
+2020-07-17 09:57:12.422 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:12] "POST /send_result HTTP/1.1" 200 -
+2020-07-17 09:57:12.469 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:12] "GET /get_img_name?mode=index&index=3 HTTP/1.1" 200 -
+2020-07-17 09:57:12.482 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:12] "GET /?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:57:12.483 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:12] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:57:12.516 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:12] "GET /get_img_name?mode=index&index=0 HTTP/1.1" 200 -
+2020-07-17 09:57:12.525 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:57:12] "GET /get_ori_img?filename=1594746591.683597.jpg HTTP/1.1" 200 -
+2020-07-17 09:57:47.743 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

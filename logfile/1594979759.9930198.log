@@ -1,0 +1,7 @@
+2020-07-17 09:56:00.014 WARNING _internal - _log:  * Debugger is active!
+2020-07-17 09:56:00.015 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-07-17 09:56:22.587 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:22] "GET /?mode=index&index=2 HTTP/1.1" 200 -
+2020-07-17 09:56:22.593 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:22] "POST /send_result HTTP/1.1" 200 -
+2020-07-17 09:56:22.632 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:22] "GET /get_img_name?mode=index&index=2 HTTP/1.1" 200 -
+2020-07-17 09:56:22.670 INFO _internal - _log: 192.168.6.217 - - [17/Jul/2020 09:56:22] "GET /get_ori_img?filename=test1.jpg HTTP/1.1" 200 -
+2020-07-17 09:56:44.132 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading
