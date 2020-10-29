@@ -1,0 +1,79 @@
+2020-10-01 10:55:27.779 WARNING _internal - _log:  * Debugger is active!
+2020-10-01 10:55:27.799 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-10-01 10:55:30.144 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:55:30] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:55:30.211 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:55:30.212 ERROR superlabel - post: None
+2020-10-01 10:55:30.213 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:55:30] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:57:40.953 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:40] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:57:41.818 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:41] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:57:41.863 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:41] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:57:41.977 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:41] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:57:42.311 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:42] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:57:42.334 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:42] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:57:42.429 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:42] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:57:53.532 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:53] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:57:53.556 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:53] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:57:53.706 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:57:53.735 ERROR superlabel - post: None
+2020-10-01 10:57:53.737 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:53] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:57:53.750 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:53] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:57:54.241 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:54] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:57:54.280 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:54] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:57:54.381 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:57:54.384 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:54] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:57:54.385 ERROR superlabel - post: None
+2020-10-01 10:57:54.388 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:57:54] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:58:04.097 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:58:04.127 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:58:04.232 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:58:04.233 ERROR superlabel - post: None
+2020-10-01 10:58:04.234 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:58:04.237 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:58:04.597 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:58:04.630 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:58:04.717 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:58:04.719 ERROR superlabel - post: None
+2020-10-01 10:58:04.721 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:58:04.722 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:04] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:58:07.392 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:07] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:58:07.436 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:58:07.437 ERROR superlabel - post: None
+2020-10-01 10:58:07.438 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:07] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:58:45.424 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:45] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:58:45.457 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:45] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:58:45.549 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:45] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:58:46.115 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:46] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:58:46.141 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:46] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:58:46.233 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:58:46] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:59:10.007 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:10] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:59:10.038 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:10] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:59:10.129 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:10] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:59:14.243 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:14] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:59:14.271 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:14] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:59:14.363 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:14] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:59:14.364 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:59:14.365 ERROR superlabel - post: None
+2020-10-01 10:59:14.366 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:14] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:59:23.775 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:23] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:59:23.811 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:23] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:59:23.902 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:59:23.918 ERROR superlabel - post: None
+2020-10-01 10:59:23.920 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:23] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:59:23.923 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:23] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:59:24.374 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:24] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:59:24.409 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:24] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:59:24.495 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:59:24.496 ERROR superlabel - post: None
+2020-10-01 10:59:24.497 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:24] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:59:24.514 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:24] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:59:52.492 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:52] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:59:52.534 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:52] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:59:52.668 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:59:52.670 ERROR superlabel - post: None
+2020-10-01 10:59:52.671 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:52] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:59:52.710 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:59:52] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 11:00:19.329 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 11:00:19] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 11:00:19.360 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 11:00:19] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 11:00:19.448 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 11:00:19] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 11:00:28.603 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 11:00:28] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 11:01:38.134 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

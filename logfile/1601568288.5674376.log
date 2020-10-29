@@ -1,0 +1,6 @@
+2020-10-01 16:04:48.614 WARNING _internal - _log:  * Debugger is active!
+2020-10-01 16:04:48.624 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-10-01 16:05:49.976 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:05:49] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 16:05:50.015 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:05:50] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 16:05:50.093 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:05:50] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 16:05:59.996 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:05:59] "POST /convert_label HTTP/1.0" 200 -

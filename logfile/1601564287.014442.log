@@ -1,0 +1,14 @@
+2020-10-01 14:58:07.054 WARNING _internal - _log:  * Debugger is active!
+2020-10-01 14:58:07.056 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-10-01 14:58:08.356 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 14:58:08] "GET /convert_label HTTP/1.0" 200 -
+2020-10-01 14:58:18.876 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 14:58:18] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 15:00:01.140 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:01] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 15:00:01.500 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:01] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 15:00:01.550 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:01] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 15:00:25.370 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:25] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 15:00:25.680 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:25] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 15:00:25.743 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:25] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 15:00:45.846 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:45] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 15:00:45.926 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:45] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 15:00:45.996 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 15:00:45] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 15:01:56.862 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

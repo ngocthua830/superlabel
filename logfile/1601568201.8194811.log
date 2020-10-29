@@ -1,0 +1,11 @@
+2020-10-01 16:03:21.927 WARNING _internal - _log:  * Debugger is active!
+2020-10-01 16:03:21.984 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-10-01 16:03:22.326 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:03:22] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 16:03:22.810 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:03:22] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 16:03:22.889 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:03:22] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 16:03:33.913 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:03:33] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 16:03:33.977 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:03:33] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 16:03:34.071 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:03:34] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 16:03:44.257 ERROR superlabel - post: [Errno 21] Is a directory: './data/convert_label/nxushzbglusrwwrp_label/back_cmtnd_resized_label_pascal'
+2020-10-01 16:03:44.275 ERROR superlabel - post: None
+2020-10-01 16:03:44.280 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:03:44] "POST /convert_label HTTP/1.0" 200 -

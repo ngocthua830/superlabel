@@ -1,0 +1,5 @@
+2020-10-01 14:53:54.912 WARNING _internal - _log:  * Debugger is active!
+2020-10-01 14:53:54.928 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-10-01 14:57:25.456 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 14:57:25] "GET /convert_label HTTP/1.0" 405 -
+2020-10-01 14:57:32.011 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 14:57:32] "GET /convert_label HTTP/1.0" 405 -
+2020-10-01 14:58:06.331 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

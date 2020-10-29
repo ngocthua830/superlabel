@@ -1,0 +1,10 @@
+2020-10-01 10:47:44.714 WARNING _internal - _log:  * Debugger is active!
+2020-10-01 10:47:44.735 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-10-01 10:50:20.370 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:50:20] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:51:22.418 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:51:22] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 10:51:22.464 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:51:22] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-01 10:51:22.705 ERROR superlabel - post: 'NoneType' object has no attribute 'save'
+2020-10-01 10:51:22.717 ERROR superlabel - post: None
+2020-10-01 10:51:22.719 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:51:22] "GET /static/figure/upload2.jpg HTTP/1.0" 200 -
+2020-10-01 10:51:22.722 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 10:51:22] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 10:52:25.527 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

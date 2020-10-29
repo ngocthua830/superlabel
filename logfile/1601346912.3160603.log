@@ -1,0 +1,16 @@
+2020-09-29 02:35:12.375 WARNING _internal - _log:  * Debugger is active!
+2020-09-29 02:35:12.566 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-09-29 02:35:17.803 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:17] "GET / HTTP/1.0" 404 -
+2020-09-29 02:35:17.862 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:17] "GET / HTTP/1.0" 404 -
+2020-09-29 02:35:18.513 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:18] "GET / HTTP/1.0" 404 -
+2020-09-29 02:35:18.717 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:18] "GET / HTTP/1.0" 404 -
+2020-09-29 02:35:18.894 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:18] "GET / HTTP/1.0" 404 -
+2020-09-29 02:35:19.065 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:19] "GET / HTTP/1.0" 404 -
+2020-09-29 02:35:19.225 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:19] "GET / HTTP/1.0" 404 -
+2020-09-29 02:35:23.534 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:23] "GET /home?mode=index&index=0 HTTP/1.0" 200 -
+2020-09-29 02:35:23.586 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:23] "GET /static/css/home.css HTTP/1.0" 200 -
+2020-09-29 02:35:23.586 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:23] "GET /static/js/home.js HTTP/1.0" 200 -
+2020-09-29 02:35:23.805 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:23] "GET /get_img_name?mode=index&index=0 HTTP/1.0" 200 -
+2020-09-29 02:35:23.970 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:23] "GET /get_label?fname=vNjAz17HaolSkItc_back_1255436.jpg HTTP/1.0" 200 -
+2020-09-29 02:35:24.342 INFO _internal - _log: 192.168.28.43 - - [29/Sep/2020 02:35:24] "GET /get_ori_img?filename=vNjAz17HaolSkItc_back_1255436.jpg HTTP/1.0" 200 -
+2020-09-29 02:51:05.218 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading

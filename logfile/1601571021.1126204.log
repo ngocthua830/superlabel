@@ -1,0 +1,26 @@
+2020-10-01 16:50:21.143 WARNING _internal - _log:  * Debugger is active!
+2020-10-01 16:50:21.145 INFO _internal - _log:  * Debugger PIN: 163-838-072
+2020-10-01 16:50:35.355 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:50:35] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 16:50:42.853 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:50:42] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 16:50:44.240 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 16:50:44] "GET /convert_label?fname=xcfrzryqdgmlspei HTTP/1.0" 200 -
+2020-10-01 17:00:42.492 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:00:42] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:00:51.690 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:00:51] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 17:00:53.942 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:00:53] "GET /convert_label?fname=pkprmcczwzbmzqji HTTP/1.0" 200 -
+2020-10-01 17:02:26.619 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:02:26] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:02:34.695 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:02:34] "POST /convert_label HTTP/1.0" 200 -
+2020-10-01 17:02:35.747 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:02:35] "GET /convert_label?fname=sescsewegycqjmeq HTTP/1.0" 200 -
+2020-10-01 17:05:20.245 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:05:20] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:05:26.220 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:05:26] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:05:26.656 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:05:26] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:05:26.925 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:05:26] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:05:27.634 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:05:27] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:05:28.015 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:05:28] "GET /label_converter HTTP/1.0" 200 -
+2020-10-01 17:06:06.105 INFO _internal - _log: 192.168.28.43 - - [01/Oct/2020 17:06:06] "GET /label_converter HTTP/1.0" 200 -
+2020-10-02 02:01:29.606 INFO _internal - _log: 192.168.28.43 - - [02/Oct/2020 02:01:29] "GET /label_converter HTTP/1.0" 200 -
+2020-10-02 02:01:29.725 INFO _internal - _log: 192.168.28.43 - - [02/Oct/2020 02:01:29] "GET /static/css/labelconverter.css HTTP/1.0" 200 -
+2020-10-02 02:01:32.237 INFO _internal - _log: 192.168.28.43 - - [02/Oct/2020 02:01:32] "GET /label_converter HTTP/1.0" 200 -
+2020-10-02 02:01:33.656 INFO _internal - _log: 192.168.28.43 - - [02/Oct/2020 02:01:33] "GET /static/figure/upload2.jpg HTTP/1.0" 304 -
+2020-10-02 02:01:47.464 ERROR superlabel - post: [Errno 21] Is a directory: './data/convert_label/edydgosqukxcybfc_label/back_cmtnd_resized_label_pascal'
+2020-10-02 02:01:47.481 ERROR superlabel - post: None
+2020-10-02 02:01:47.485 INFO _internal - _log: 192.168.28.43 - - [02/Oct/2020 02:01:47] "POST /convert_label HTTP/1.0" 200 -
+2020-10-02 02:04:31.448 INFO _internal - _log:  * Detected change in '/host/superlabel/superlabel.py', reloading
